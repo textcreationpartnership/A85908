@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Generals dinner at the Lady Crispes, with his lady, and officers of the Armie how his excellency was invited by a cook. The manner of the dinner, their great danger of being all poysoned; and remedies used to preserve them. And the cooke who was the chiefe actor, committed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85908</idno>
+            <idno type="STC">Wing G512</idno>
+            <idno type="STC">Thomason E407_28</idno>
+            <idno type="STC">ESTC R204651</idno>
+            <idno type="EEBO-CITATION">99864116</idno>
+            <idno type="PROQUEST">99864116</idno>
+            <idno type="VID">160518</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160518)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E407[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Generals dinner at the Lady Crispes, with his lady, and officers of the Armie how his excellency was invited by a cook. The manner of the dinner, their great danger of being all poysoned; and remedies used to preserve them. And the cooke who was the chiefe actor, committed.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Crisp, Sara, --  Lady.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160518:1" rendition="simple:additions"/>
+            <p>THE GENERALS DINNER At the Lady CRISPES, with His LADY, and Officers of the ARMIE How his Excellency was invited by a Cook.</p>
+            <p>THE Manner of the Dinner, Their great danger of being all poyſoned; and remedies uſed to preſerve them.</p>
+            <p>AND The COOKE who was the Chiefe Actor, COMMITTED.</p>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160518:2"/>
+            <pb n="1" facs="tcp:160518:2"/>
+            <head>THE GENERALLS DINNER, At the Lady CRISPES, with hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> LADY, and Officers OF THE ARMIE.</head>
+            <p>ILL men plot miſcheife, and the good may ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fer, yet not always, The Acts of trechery doe n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ever proſper; The guard of heavenly power d<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fend the Saints, from the malice of hell, and wicke<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men.</p>
+            <p>A Deſigne was layed againſt his Excellency S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Thomas Fairfax,</hi> what the bottome of it was, is pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vate only to the Plotters yet not hid from the deity.</p>
+            <p>A <hi>Cooke</hi> who came out of <hi>France,</hi> (as he ſaid,) with ſome gentlemen, came to <hi>Hammerſmith,</hi> to the Lady <hi>Criſpes</hi> Houſe, where hee deſired to ſpeake with th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lady herſelfe.</p>
+            <pb n="2" facs="tcp:160518:3"/>
+            <p> The Lady <hi>Criſpe</hi> comming to him, he told her that he was come from two Gentlemen, newly come from <hi>France,</hi> who were there, well acquainted with Sir <hi>Nicholas Criſpe</hi> her Husband, who is now there in good-health, And they would bee very willing to waite upon her, (ſaving moreover,) that theſe Gentlemen had ſome Officers of Sir <hi>Thomas Fairfaxes</hi> Army to invite to a dinner, And the buſineſſe of his comming at that time was to intreate the uſe of her houſe, for him to dreſſe the dinner for them, which would bee a very convenient place for that purpoſe, and a noble favour to thoſe Gentlemen who would bee glad to injoy that opportunity to acquaint her Ladiſhip, with ſome things from her Husband, And that if ſhee pleaſed to doe that favour for them, They had appoynted him, to get the Dinner ready for them.</p>
+            <p>The Lady <hi>Criſpe,</hi> being deſirous to heare from her Husband, and willing to accommodete, any Gentle<g ref="char:EOLhyphen"/>men with ſuch a courteſie, eſpecially in ſuch a caſe as this, and to receive ſuch Gueſts, ſhe told him, that with all her heart, her houſe was at their ſervice.</p>
+            <p>Then this <hi>Cooke</hi> went to <hi>Turnham-greene,</hi> to the Generalls <hi>Excellency</hi> Sir <hi>Thomas Fairfax;</hi> where his <hi>Excellency</hi> then was with his Lady, intending to re<g ref="char:EOLhyphen"/>turne from his Lady, back to <hi>Putney</hi> after a day or two.</p>
+            <p>The <hi>Cooke</hi> asked to ſpeake with the Generalls La<g ref="char:EOLhyphen"/>dy: where hee was demanded by one of the Ladies Gentlewomen whom hee came from, he anſwered, from <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lady <hi>Criſpe,</hi> upon a buſineſſe which requir<g ref="char:EOLhyphen"/>ed a <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>aine Anſwer.</p>
+            <p>The Generalls Lady came to him, and asked what
+<pb n="3" facs="tcp:160518:3"/> he had to ſay to her, The <hi>Cooke</hi> told her Ladiſhip, that he was ſent from (a noble Lady) the Lady <hi>Criſpe</hi> Sir <hi>Nicholas Criſpes</hi> Lady, who is at <hi>Hammerſmith</hi> to deſire her Ladyſhip, that with his <hi>Excellency,</hi> ſhee will be pleaſed to honour the Lady <hi>Criſpe</hi> ſo farre as to Dine with her, and that her Ladyſhip would take it for a very great honour, if his <hi>Excellency,</hi> and her <hi>Ladyſhip,</hi> will be pleaſed to anſwer her expectations herein.</p>
+            <p>The Generalls Lady told her, that ſhe knew the Lady <hi>Criſpe,</hi> to be a very noble Lady, and of good repute in thoſe parts, And that ſhe would ſpeake to her Husband, and ſuddainly returne an anſwer.</p>
+            <p>Accordingly the Generalls Lady went to his <hi>Ex<g ref="char:EOLhyphen"/>cellency</hi> and told him, that the Lady <hi>Criſpe</hi> had ſent to invite them to a Dinner, with her, The Generall was unwilling to goe, but by the perſwaſions of his Lady in regard of that good repute which the Lady <hi>Criſpe</hi> hath in all thoſe parts, ſhe prevailed with his <hi>Excellency</hi> to conſent to it. And accordingly the <hi>Cooke</hi> was told, that hee was deſired to give thanks to the Lady <hi>Criſpe;</hi> And that the Generall with his Lady would waite upon her at the time deſired.</p>
+            <p>The Cooke returned, and acquainted the Lady <hi>Criſpe,</hi> that the Gentlemen would be there to trouble her houſe for meeting and dreſſing of a dinner, upon her Ladiſhips conſent: and for that purpoſe this Cook brought in meat, ſo much as coſt him only 16. s. and no more, which he dreſſed for dinner in the Lady <hi>Criſpes</hi> houſe.</p>
+            <p>About noone his Excellency Sir <hi>Thomas Fairfax,</hi> with his Lady, came to Lady <hi>Criſpes</hi> houſe, it being the time appointed; and with his Excellency, came
+<pb n="4" facs="tcp:160518:4"/> Colonell <hi>Reinsborough,</hi> Doctor <hi>Steines,</hi> with his Ex<g ref="char:EOLhyphen"/>cellencies, and her Ladiſhips attendance.</p>
+            <p>The Lady <hi>Criſpe</hi> had newes preſently brought to her, that Sir <hi>Thomas Fairfax</hi> was come thither, with his Lady and others, which did no little amaze her, won<g ref="char:EOLhyphen"/>dring what ſhould bee the cauſe of his comming thi<g ref="char:EOLhyphen"/>ther, and yet it came into her minde, that perhaps his Excellency might be invited by ſome eminent perſons though ſhee knew not who they were, but in regard ſhe knew nothing how things were appointed, ſhee was puzled exceedingly what to doe.</p>
+            <p>The Generall wondred as much that hee ſhould come and ſit in the Hall, and the Lady <hi>Criſpe</hi> not come preſently to welcome them, yet charitable thoughts made the beſt conſtruction of it.</p>
+            <p>His Excellency (after a while) was brought into the dining roome; but the Lady <hi>Criſpe</hi> wondred that the Generall and his Lady were there, and no body but the Cooke to entertaine them, ſo that ſhe knew not how to carry herſelfe in the buſineſſe; but ſhe went in and ſaluted the gueſts, though ſhe was very ignorant whoſe they were, yet was loath to diſcover it, untill ſhe knew what the iſſue would be, yet ſhee did much admire that none ſhould appeare to invite ſuch gueſts but the Cooke.</p>
+            <p>At laſt dinner was brought up, and his Excellency with his Lady, and Colonell <hi>Rainsborough,</hi> and Do<g ref="char:EOLhyphen"/>ctor <hi>Steines</hi> late downe with the Lady <hi>Criſpe</hi> to din<g ref="char:EOLhyphen"/>ner, the Generall, &amp; the reſt of his company ſuppoſing it had been provided by the Lady <hi>Criſpe,</hi> and the Lady <hi>Criſpe</hi> (though puzled what to thinke of it, yet) ima<g ref="char:EOLunhyphen"/>gining that perhaps it might bee ſent in by the Gene<g ref="char:EOLhyphen"/>rall.</p>
+            <pb n="5" facs="tcp:160518:4"/>
+            <p> There was of this meat which coſt but 16. s. made above twenty diſhes of meat, all French Quickſlas, ſuch as none of the company knew what any of them were, ſave only the Cooke himſelfe, yet they all had very good taſtes, and it was ſuppoſed they had beene diſhes of greater value: the Generall conceiving them to bee appointed by the Lady <hi>Criſpe,</hi> ſhee by the Ge<g ref="char:EOLhyphen"/>neralls Lady: but the Lady <hi>Criſpe</hi> called for wine, and what ſhe had in the houſe fit for that table.</p>
+            <p>About the middle of the dinner, the uſuall time of diſcourſe, and drinking one to another, and bidding each other, much good doe it you, and the like; the Lady <hi>Criſpe</hi> made an Apology to his Excellency, and the reſt, deſiring to be excuſed, that ſhe was ſo wan<g ref="char:EOLhyphen"/>ting in things fit for their entertainments, in regard ſhee had no knowledge at all of their comming, and that had ſhee knowne herſelfe to be worthy of that vi<g ref="char:EOLhyphen"/>ſit, ſhee would have had ſomething fitting for the en<g ref="char:EOLhyphen"/>tertaining of ſuch honourable perſons, the want whereof ſhe deſired to be excuſed in, becauſe of the ſudden ſurpriſe.</p>
+            <p>With that they were all ſtartled, and the invitati<g ref="char:EOLhyphen"/>on by the Cook (in the Lady <hi>Criſpes</hi> name) told: where upon the Cook was called for, who being de<g ref="char:EOLhyphen"/>manded the reaſon of his abuſe therein: Anſwered, that he heard his Excellency wanted a Cook, and he did not know how to preſent himſelfe better to his Excellency, then by making a viſible demonſtration of what he was able to doe, and with little coſt.</p>
+            <p>The Cook hereupon is committed to the cuſtody of the Marſhall-Generall of the Ar<g ref="char:EOLhyphen"/>my.</p>
+            <pb n="6" facs="tcp:160518:5"/>
+            <p> And a great fear being had of ſome poy<g ref="char:EOLhyphen"/>ſon, that might be in the meate (as proba<g ref="char:EOLhyphen"/>bly ſome miſchiefe was in it) They all had potions given them, and have ſince been in a courſe of phiſick, ſo that (God be prai<g ref="char:EOLhyphen"/>ſed) they are all well.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
